@@ -1,0 +1,47 @@
+body {
+	line-height: 1.8em;
+	font-size: 12px;
+	font-family: Verdana, "Bitstream Vera Sans", sans-serif;
+	margin-top: 20px;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: 100px;
+}
+div.file {
+	text-align: right;
+	font-size: 2em;
+	letter-spacing: .1em;
+	margin-top: 2em;
+}
+h1 {
+	font-size: 1.2em;
+}
+ul, ol {
+	padding-left: 1em;
+	margin: 0 0 1em 1em;
+	margin-top: .2em;
+	margin-left: 1.5em;
+}
+ul ul, ul ol, ol ol, ol ul {
+	padding-left: .5em;
+	margin-left: 1em;
+}
+ul {
+	list-style-type: square;
+}
+
+ul ul {
+	list-style-type: square;
+}
+ul ul ul {
+	list-style-type: square;
+}
+p {
+	margin-top: .5em;
+	margin-bottom: .5em;
+	margin-left: .5em;
+}
+hr {
+	border: 0;
+	margin-top: 2em;
+}
